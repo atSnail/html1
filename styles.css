@@ -1,0 +1,28 @@
+  p{
+        color: red;
+        font-size: 25px;
+       
+         font-family: "Comic Sans MS", cursive, sans-serif
+    }
+h1{
+    color: saddlebrown;
+}
+
+p, h1, .smallImage{
+border: groove 20px saddlebrown;
+ width: 500px;
+}
+
+.lawson{
+        color: blue;
+       
+    }
+.smallImage{
+        width: 500px;
+        height: 500px;
+        
+    }
+
+body{
+        border: solid 3px saddlebrown;
+    }
