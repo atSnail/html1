@@ -26,3 +26,13 @@ border: groove 20px saddlebrown;
 body{
         border: solid 3px saddlebrown;
     }
+    .omfgdogs{
+        width: 100%;
+        height: 1200px;
+        background: white url('images/omfgdogs.gif') repeat;
+    }
+    .omfgsnails{
+         width: 100%;
+        height: 1200px;
+        background: mediumvioletred url('images/snail.gif') repeat;
+    }
