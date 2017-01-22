@@ -42,3 +42,8 @@ border: groove 20px white;
         height: 1200px;
         background: mediumvioletred url('images/snail.gif') repeat;
     }
+    .omfgcats{
+        width: 100%;
+        height: 1200px;
+        background: white url('images/cat.gif') repeat;
+    }
